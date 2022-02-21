@@ -1,6 +1,6 @@
 # App de Receitas
 --------
-## Projeto em grupo, realizado no módulo de fundamentos
+## Projeto em grupo, realizado no módulo de front-end
 
 
 grupo: [Bel Albuquerque](https://github.com/Bel-Albuquerque), [Elithon Silva](https://github.com/oelithon), [Enzo Almeida](https://github.com/EnzoThome-et), [Gustavo Pozzan Dalmoro](https://github.com/gustavo-pd) e (Theo Lima)[https://github.com/theolima14b]
